@@ -69,7 +69,6 @@ class ViewController: UITableViewController {
         
         celula.descricaoLabel.text = filme.descricao
         
-        
         return celula
     }
     
@@ -84,14 +83,11 @@ class ViewController: UITableViewController {
                 
             }
         }
-        
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+        
     }
-
-
 }
 

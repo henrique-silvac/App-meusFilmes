@@ -18,5 +18,4 @@ class Filme{
         self.descricao = descricao
         self.imagem = imagem
     }
-    
 }

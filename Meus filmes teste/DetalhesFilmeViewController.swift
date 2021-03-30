@@ -25,5 +25,4 @@ class DetalhesFilmeViewController: UIViewController {
         descricaoLabel.text = filme.descricao
         
     }
-    
 }
